@@ -1,0 +1,12 @@
+{
+  "AdsController": {
+    "adNetwork": "applovin",
+    "admobBanner": "",
+    "admobInterstitial": "",
+    "admobNative": "",
+    "applovinBanner": "16cb520e5banner",
+    "applovinInterstitial": "16cb520e5inter",
+    "applovinNative": "16cb520e5native",
+    "RatingActive": true
+  }
+}
