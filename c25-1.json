@@ -1,5 +1,5 @@
 {
-  "AdsController": {
+  "AdsManager": {
     "adNetwork": "applovin",
     "admobBanner": "",
     "admobInterstitial": "",
