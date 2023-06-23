@@ -1,12 +1,12 @@
 {
-  "AdsController": {
-    "adNetwork": "applovin",
-    "admobBanner": "",
-    "admobInterstitial": "",
-    "admobNative": "",
-    "applovinBanner": "f03dd0cd681b4f38",
-    "applovinInterstitial": "6033133c464784bc",
-    "applovinNative": "c3cd647c99006f94",
+  "AdsManager": {
+    "AdNetwork": "applovin",
+    "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
+    "AdmobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
+    "ApplovinBanner": "f03dd0cd681b4f38",
+    "ApplovinInterstitial": "6033133c464784bc",
+    "ApplovinNative": "c3cd647c99006f94",
     "RatingActive": true
   }
 }
