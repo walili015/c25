@@ -1,12 +1,15 @@
 {
-  "AdsManager": {
-    "AdNetwork": "applovin",
-    "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
-    "AdmobInterstitial": "ca-app-pub-3940256099942544/1033173712",
-    "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
-    "ApplovinBanner": "eacf17d69df14106",
-    "ApplovinInterstitial": "e8884ba8728a805c",
-    "ApplovinNative": "53092a96dbb57a94",
-    "RatingActive": true
+  "AdsController": {
+    "adNetwork": "applovin",
+    "admobBanner": "",
+    "admobInterstitial": "",
+    "applovinBanner": "eacf17d69df14106",
+    "applovinInterstitial": "e8884ba8728a805c",
+    "unityGameId": "",
+    "testMode": false,
+    "unityBanner": "",
+    "unityInterstitial": "",
+    "RatingActive": true,
+	"isAppId": "19cd88085"
   }
 }
