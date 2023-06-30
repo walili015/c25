@@ -3,10 +3,13 @@
     "adNetwork": "admob",
     "admobBanner": "ca-app-pub-3940256099942544/6300978111",
     "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
-    "admobNative": "ca-app-pub-3940256099942544/2247696110",
-    "applovinBanner": "16cb520e5banner",
-    "applovinInterstitial": "16cb520e5inter",
-    "applovinNative": "16cb520e5native",
-    "RatingActive": true
+    "applovinBanner": "99e162ad27883a21",
+    "applovinInterstitial": "69388363a4281e64",
+    "unityGameId": "",
+    "testMode": false,
+    "unityBanner": "",
+    "unityInterstitial": "",
+    "RatingActive": true,
+	"isAppId": "19cd88085"
   }
 }
