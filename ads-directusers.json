@@ -15,6 +15,7 @@
     "unityBanner": "",
     "unityInterstitial": "",
     "ratingactive": true,
+    "directionuser": true,
     "modeads": false,
     "IMG1_URL": "https://c30.netlify.app/c30-1.png",
     "TEXT1_URL": "https://play.google.com/store/apps/details?id=XXXXXX"
